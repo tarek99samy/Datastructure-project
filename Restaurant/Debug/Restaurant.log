@@ -1,0 +1,176 @@
+﻿  Demo_Main.cpp
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(33): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(39): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(41): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(44): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(53): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(56): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(62): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(64): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(67): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(75): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(78): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(84): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(86): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(89): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(97): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(100): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(106): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(108): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(111): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(13): error C3646: 'FileName': unknown override specifier
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(16): error C3646: 'fileIN': unknown override specifier
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(17): error C3646: 'fileOUT': unknown override specifier
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  ArrivalEvent.cpp
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(33): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(39): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(41): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(44): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(53): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(56): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(62): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(64): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(67): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(75): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(78): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(84): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(86): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(89): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(97): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(100): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(106): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(108): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(111): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(13): error C3646: 'FileName': unknown override specifier
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(16): error C3646: 'fileIN': unknown override specifier
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(17): error C3646: 'fileOUT': unknown override specifier
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  IO.cpp
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(75): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(97): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\io.cpp(79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Motorcycle.cpp
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\rest\motorcycle.cpp(8): error C2572: 'Motorcycle::Motorcycle': redefinition of default argument: parameter 1
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\rest\motorcycle.h(18): note: see declaration of 'Motorcycle::Motorcycle'
+  Restaurant.cpp
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(33): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(39): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(41): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(44): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(53): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(56): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(62): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(64): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(67): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(74): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(75): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(78): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(84): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(86): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(89): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2374: 'front': redefinition; multiple initialization
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(29): note: see declaration of 'front'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(96): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(97): error C2086: 'Order *current': redefinition
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(30): note: see declaration of 'current'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(100): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(106): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(108): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\cancelationevent.h(111): error C2027: use of undefined type 'Restaurant'
+  e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\events\event.h(6): note: see declaration of 'Restaurant'
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\rest\restaurant.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\cufe-cmp 2022\data structure project\fadl\project_code_s2019\restaurant\rest\restaurant.cpp(129): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: see declaration of 'itoa'
+  Generating Code...
